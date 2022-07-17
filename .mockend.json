@@ -1,7 +1,10 @@
 {
     "Employees": {
       "firstName": {
-        "string": {}
+        "string": [
+      "Thor",
+      "Loki"
+    ]
       },
       "lastName": {
         "string": { }
