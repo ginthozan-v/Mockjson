@@ -7,16 +7,28 @@
     ]
       },
       "lastName": {
-        "string": { }
+        "string": [
+      "Thor",
+      "Loki"
+    ]
       },
       "email": {
-        "string": {}
+        "string": [
+      "Thor",
+      "Loki"
+    ]
       },
       "phone": {
-        "string": {}
+         "string": [
+      "Thor",
+      "Loki"
+    ]
       },
       "gender": {
-        "string": {}
+         "string": [
+      "Thor",
+      "Loki"
+    ]
       }
     }
   }
