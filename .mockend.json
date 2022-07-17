@@ -1,16 +1,10 @@
 {
     "Employees": {
       "firstName": {
-        "string": {
-          "minLength": 5,
-          "maxLength": 20
-        }
+        "string": {}
       },
       "lastName": {
-        "string": {
-          "minLength": 5,
-          "maxLength": 20
-        }
+        "string": { }
       },
       "email": {
         "string": {}
